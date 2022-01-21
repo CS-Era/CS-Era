@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CS-Era
-- 👀 I’m interested in Computer Science and Cyber Security
-- 🌱 I’m currently studying Computer Science ...
+- 👀 I’m interested in Cyber Security and currently studying Computer Science
 
 <!---
 CS-Era/CS-Era is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
