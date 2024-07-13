@@ -1,6 +1,6 @@
 # About Erasmo
 
-- 👋 Hi, I’m Erasmo Prosciutto, I'm 22 and I'm currently studying Computer Science at the University of Naples, Federico II.
+- 👋 Hi, I’m Erasmo Prosciutto, I'm 22 and I'm a Computer Scientist.
 - 👀 I’m interested in Cyber Security and I hope to join this amazing field as soon as possible.
 - 👨‍💻 I'm collaborating in a Research Team of my University guided by the Prof. W. Balzano.
 
