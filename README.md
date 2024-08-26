@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Erasmo Prosciutto, I'm 23 and I'm a Computer Scientist.
 - 👀 I’m interested in Cyber Security and I hope to join this amazing field as soon as possible.
-- 👨‍💻 I'm collaborating in a Research Team of my University guided by the Prof. W. Balzano.
+- 👨‍💻 I'm collaborating in a Research Team of the University of Naples "Federico II", Department of Electrical Engineering and Information Tenchnologies, guided by the Prof. W. Balzano.
 
 
 ## Publications
