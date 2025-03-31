@@ -1,4 +1,4 @@
-# 🔒 Erasmo Prosciutto | Compuer Scientist & CyberSec Specialist
+# 🔒 Erasmo Prosciutto | Compuer Scientist & CyberSecurity Specialist
 
 <p align="center">
   <em>"A system's security is only as strong as its weakest link"</em>
