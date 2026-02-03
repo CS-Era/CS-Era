@@ -5,7 +5,7 @@
 </p>
 
 ## 👨‍💻 About Me 
-### ([Check my Linkedin Profile](www.linkedin.com/in/erasmo-prosciutto))
+### <a href="https://www.linkedin.com/in/erasmo-prosciutto">Check my Linkedin Profile</a> 
 
 Passionate Computer Scientist specializing in Cybersecurity, with a strong focus on Cloud security. Currently pursuing advanced studies in Computer Science at the University of Salerno and collaborating with a Research Team at the University of Naples "Federico II".
 
