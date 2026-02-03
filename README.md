@@ -1,14 +1,15 @@
-# 🔒 Erasmo Prosciutto | Compuer Scientist & CyberSecurity Specialist
+# 🔒 Erasmo Prosciutto | Jr. Cloud Security Architect 👷🏻‍♂️ | Msc student in Computer Science - Cybersecurity 👨🏻‍💻  
 
 <p align="center">
   <em>"A system's security is only as strong as its weakest link"</em>
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
+### ([Check my Linkedin Profile](www.linkedin.com/in/erasmo-prosciutto))
 
-Passionate Computer Scientist specializing in Cybersecurity, with a strong focus on innovative research and secure software development. Currently pursuing advanced studies in Cybersecurity at the University of Salerno and collaborating with a Research Team at the University of Naples "Federico II".
+Passionate Computer Scientist specializing in Cybersecurity, with a strong focus on Cloud security. Currently pursuing advanced studies in Computer Science at the University of Salerno and collaborating with a Research Team at the University of Naples "Federico II".
 
-I am also attending Cyber HackAdemy @Unina, a hands-on training course in cybersecurity in partnership with the University of Naples Federico II and Accenture, supported by the Italian National Cybersecurity Agency (ACN).
+I also attended Cyber HackAdemy @Unina, a hands-on training course in cybersecurity in partnership with the University of Naples Federico II and Accenture, supported by the Italian National Cybersecurity Agency (ACN).
 
 ### 🎓 Academic & Research Highlights
 
@@ -16,7 +17,7 @@ I am also attending Cyber HackAdemy @Unina, a hands-on training course in cybers
 
 - 🔬 Research Collaborator, Department of Electrical Engineering and Information Technologies, University of Naples "Federico II"
 
-- 🌟 Multiple international conference publications in cutting-edge technology domains
+- 🌟 Cyber HackAdemy UniNA - Practical Ethical Hacking Program 
 
 ## 📚 Notable Publications
 
