@@ -49,5 +49,7 @@ I actively contribute to the scientific community with research focused on **Web
 ---
 
 ## 📊 GitHub Analytics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Era&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CS-Era&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
