@@ -51,9 +51,6 @@ I actively contribute to the scientific community with research focused on **Web
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Era&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Era&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
-<div align="center">
-  <sub><em>"The only truly secure system is one that is powered off... and even then, I'd check the battery."</em></sub>
-</div>
